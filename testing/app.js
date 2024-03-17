@@ -22,4 +22,13 @@ function sortingByAge(){
     return data;
 }
 
+module.exports = sortingByAge;
+
 console.log(sortingByAge())
+
+// Automation Testing
+    // - e2e 
+    // Puppetear , cypresss , Selenium Testing 
+
+    // Headless : its  not visible to us
+    
